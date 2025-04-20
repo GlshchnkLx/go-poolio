@@ -1,0 +1,39 @@
+# Compiled file
+*.out
+*.app
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Private folder & file
+*backup*
+*private*
+*.db
+*.log
+*.tmp
+*._go
+
+# MacOS Trash
+.DS_Store
+._*
+
+# Windows Trash
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Linux Trash
+*~
+
+# IDE Trash
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Golang Trash
+/.cache/
+/.go/
